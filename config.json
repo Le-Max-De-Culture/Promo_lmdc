@@ -1,0 +1,12 @@
+{
+    "token": "token",
+    "perms": ["", ""],
+    "connexion": {
+        "port": "",
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": "",
+        "socketPath": ""
+    }
+}
